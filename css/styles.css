@@ -777,11 +777,11 @@ img {
 }
 
 .modal_label {
-  display: block;
   color: var(--color-light-slate);
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
+  display: block;
   margin-bottom: 4px;
 }
 
